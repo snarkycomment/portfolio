@@ -80,5 +80,8 @@ footer p {
 
 iframe {
 	text-align: center;
+	border: 0;
 	border-radius: 2%;
+	width: 500px;
+	height: 500px;
 }
